@@ -1,10 +1,10 @@
 ### Hi there, I'm Anu  👋
 
 ## I'm a Angular Developer!
-🔭  I’m working as a Frontend Developer for Exza Software Solution !
-🌱  I’m currently learning everything 🤣
-👯  Intrest in testing,designing and crafting efficient modern software and learning new technologiesand tools if need arises 
-⚡   Fun fact: I love to draw and play basketball
+- 🔭  I’m working as a Frontend Developer for Exza Software Solution !
+- 🌱  I’m currently learning everything 🤣
+- 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologiesand tools if need arises 
+- ⚡   Fun fact: I love to draw and play basketball
 
 ### Connect with me:
 [<img align="left" alt="anumathew19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
