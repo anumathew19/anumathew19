@@ -23,7 +23,7 @@
 <img align="left" alt="MongoDB" width="26px" />
 <img align="left" alt="Git" width="26px" />
 <img align="left" alt="GitHub" width="26px" />
-<img align="left" alt="HTML5" width="26px" />
+[<img align="left" alt="HTML5" width="26px" />][]
 
 <br />
 <br />
