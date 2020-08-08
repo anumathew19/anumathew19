@@ -32,11 +32,10 @@
 
 ### 📺 Selected Projects
 <!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [CLASS | E-earning Software |Angular 7, HTML5, CSS3,Python Django Framework,PostgreSQL]
+- [ELS | nterprise Learning System |Angular 7, HTML5, CSS3,Python Django Framework(Basics),PostgreSQL]
+- [CRM |Customer Relationship Management | ASP.NET,MVC Framework,MS SQL Server, Angular7]
+- [HRMS |Human Resource Management System | ASP.NET,MVC Framework,MS SQL Server, Angular7]
 <!-- YOUTUBE:END -->
 
 ---
@@ -54,6 +53,6 @@
 <img align="left" alt="anumathew's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anumathew&show_icons=true&hide_border=true"/>
 
 [instagram]: https://instagram.com/anu_mathew__tressa
-[linkedin]: https://linkedin.com/in/anu-mathew
+[linkedin]: https://www.linkedin.com/in/anu-mathew-a8273286/
 
 
