@@ -3,7 +3,7 @@
 ## I'm a Angular Developer!
 - 🔭  I’m working as a Frontend Developer for Exza Software Solution !
 - 🌱  I’m currently learning everything 🤣
-- 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologiesand tools if need arises 
+- 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies and tools if need arises 
 - ⚡   Fun fact: I love to draw and play basketball
 
 ### Connect with me:
