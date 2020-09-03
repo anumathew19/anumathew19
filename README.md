@@ -44,7 +44,6 @@
 ### 📕 Professional Experience
 <!-- BLOG-POST-LIST:START -->
 - [Exza Software Services Pvt Ltd](http://www.exza.com/)
-- [Mindsoft Innovations Pvt Ltd](https://www.mindsoftglobal.com/)
 - Zebra Bridge Bizinvestments
 
 <!-- BLOG-POST-LIST:END -->
