@@ -50,7 +50,7 @@
 
 ---
 
-<img align="left" alt="anumathew's Github Stats" src="https://github-readme-stats.anumathew19.vercel.app/api?username=anumathew&show_icons=true&hide_border=true"/>
+<img align="left" alt="anumathew's Github Stats" src="https://github-readme-stats.anumathew19/anumathew19.vercel.app/api?username=anumathew&show_icons=true&hide_border=true"/>
 
 [instagram]: https://instagram.com/anu_mathew__tressa
 [linkedin]: https://www.linkedin.com/in/anu-mathew-a8273286/
