@@ -57,7 +57,7 @@
 [instagram]: https://instagram.com/anu_mathew__tressa
 [linkedin]: https://www.linkedin.com/in/anu-mathew-a8273286/
 [github]: https://github.com/anumathew19
-[stackblitz]:: https://stackblitz.com/@anumathew19
+[stackblitz]: https://stackblitz.com/@anumathew19
 
 
 
