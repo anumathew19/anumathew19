@@ -34,7 +34,7 @@
 
 ### 📺 Selected Projects
 <!-- YOUTUBE:START -->
-- CLASS | E-earning Software | Angular 8, HTML5, CSS3,Python Django Framework,PostgreSQL
+- UNOLearn | E-earning Software | Angular 8, HTML5, CSS3,Python Django Framework,PostgreSQL
 - ELS | Enterprise Learning System | Angular 7, HTML5, CSS3,Python Django Framework(Basics),PostgreSQL
 - CRM |Customer Relationship Management | ASP.NET,MVC Framework,MS SQL Server, Angular7
 - HRMS |Human Resource Management System | ASP.NET,MVC Framework,MS SQL Server, Angular7
