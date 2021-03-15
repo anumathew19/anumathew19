@@ -1,7 +1,7 @@
 ### Hi there, I'm Anu  👋
 
 ## I'm a Angular Developer!
-- 🔭  I’m working as a Frontend Developer for Exza Software Solution !
+- 🔭  I’m working as a Fullstack Developer at RTC Services !
 - 🌱  I’m currently learning everything 🤣
 - 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies and tools if need arises 
 - ⚡   Fun fact: I love to draw and play basketball
