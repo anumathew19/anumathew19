@@ -1,7 +1,7 @@
 ### Hi there, I'm Anu  👋
 
 ## I'm a Fullstack Developer!
-- 🔭  I’m working as a Fullstack Developer at RTC Services !
+- 🔭  I’m working as a Fullstack Developer at Robust Tech Consultancy Services LLP !
 - 🌱  I’m currently learning everything 🤣
 - 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies and tools if need arises 
 - ⚡   Fun fact: I love to draw and play basketball
