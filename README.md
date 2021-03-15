@@ -34,6 +34,7 @@
 
 ### 📺 Selected Projects
 <!-- YOUTUBE:START -->
+- Curriculum Crafter | Angular 11, NGRX, HTML5, CSS3,ASP.Net Core 5,LINQ, Azure, Reddis
 - UNOLearn | E-Learning Software | Angular 8, HTML5, CSS3,Python Django Framework,PostgreSQL
 - ELS | Enterprise Learning System | Angular 7, HTML5, CSS3,Python Django Framework(Basics),PostgreSQL
 - CRM |Customer Relationship Management | ASP.NET,MVC Framework,MS SQL Server, Angular7
