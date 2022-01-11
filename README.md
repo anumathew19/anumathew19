@@ -1,7 +1,7 @@
 ### Hi there, I'm Anu  👋
 
-## I'm a Fullstack Developer!
-- 🔭  I’m working as a Frontent Developer at Electronikmedia (EM) !
+## I'm a Software Developer!
+- 🔭  I’m working as a Software Developer at Electronikmedia (EM) !
 - 🌱  I’m currently learning everything 🤣
 - 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies and tools if need arises 
 - ⚡   Fun fact: I love to draw and play basketball
